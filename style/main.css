@@ -1,3 +1,4 @@
+html, body{ overflow: hidden; }
 .e_part3_indexImg{width: 44px;vertical-align: middle;margin-right: 10px;}
 .br_control_a{height: 32px;line-height: 32px;display: block;}
 .e_part4_titleDetail{margin:15px auto 55px;width:612px;text-align:center;}
